@@ -1,2 +1,3 @@
 # political-orientation
-Analytics scripts and an API for an online political orientation quiz
+
+Analytics scripts and a simple Flask RESTful API for an online political orientation quiz.
